@@ -15,7 +15,7 @@ The pretrained network would release soon!
 ## Setup and Run
 
 ```
-git clone https://github.com/rdcsung/DQN-Atari-Tensorflow.git
+git clone https://github.com/jderehag/DQN-Atari-Tensorflow.git
 
 cd DQN-Atari-Tensorflow
 python AtariDQN.py
