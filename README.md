@@ -21,9 +21,10 @@ cd DQN-Atari-Tensorflow
 python AtariDQN.py
 
 ```
-
 ## Reference
 1. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
 2. [gliese581gg/DQN_tensorflow](https://github.com/gliese581gg/DQN_tensorflow)
+
+
 
 
