@@ -15,15 +15,16 @@ The pretrained network would release soon!
 ## Setup and Run
 
 ```
-git clone https://github.com/songrotek/DQN-Atari-Tensorflow.git
+git clone https://github.com/jderehag/DQN-Atari-Tensorflow.git
 
 cd DQN-Atari-Tensorflow
 python AtariDQN.py
 
 ```
-
 ## Reference
 1. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
 2. [gliese581gg/DQN_tensorflow](https://github.com/gliese581gg/DQN_tensorflow)
+
+
 
 
