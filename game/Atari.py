@@ -17,7 +17,7 @@ class Atari:
             self.action_map[self.legal_actions[i]] = i
         # print len(self.legal_actions)
         self.windowname = os.path.basename(rom_name)
-        cv2.namedWindow(self.windowname)
+        cv2.namedWindow(self.windowname, cv2.WINDOW_NORMAL)
         cv2.startWindowThread()
 
     def get_image(self):
